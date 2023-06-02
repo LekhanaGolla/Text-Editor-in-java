@@ -1,0 +1,8 @@
+This Java program implements a basic text editor with some common editing functions.
+The user interface is built with Swing, a set of GUI components included in the Java Foundation Classes (JFC). 
+The editor supports creating new files, opening existing files, saving changes to files, and printing the current document.
+The editing functions include cut, copy, and paste. The user can access these features through the menu bar or with keyboard shortcuts. 
+The text editor uses a JTextArea component to display and edit the text. The program uses file I/O classes to read and write files from the file system.
+The user can choose a file to open or save using a JFileChooser dialog. The program also sets the look and feel of the UI to MetalLookAndFeel with an OceanTheme. 
+This code is a good starting point for anyone learning Java Swing or interested in building a simple text editor.
+
